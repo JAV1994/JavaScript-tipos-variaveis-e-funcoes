@@ -14,6 +14,12 @@ console.log("Numero 1 é igual em tipo e valor com o numero 2: " + numero1 === n
 // let permite a mudança da variavel e é mais segura que var
 let teste = false;
 teste = true;
-console.log(teste)
+console.log(teste);
+
+// Outro exemplo.
+const texto1 = "Alura";
+const texto2 = 'A';
+console.log(texto1 == texto2);
+
 
 
